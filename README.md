@@ -88,6 +88,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 - [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
+- [⚠️ Tony Hawk's Pro Skater](https://github.com/andrewnakas/thps64)
 - [Wave Race 64](https://github.com/llonsit/wave-race-64)
 - [Yoshi's Story](https://github.com/decompals/yoshis-story)
 
